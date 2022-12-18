@@ -1,3 +1,7 @@
+    # this solution is using hashset method. 
+    # time complexity: O(n)
+    # space complexity: O(n)
+    
     def containsDuplicate(self, nums: List[int]) -> bool:
 
         hashset = set()
